@@ -18,7 +18,7 @@ The goal of this project is to employ machine learning with the aim of predictin
 ### Combination Sampling
 ![Combination_Sampling](/Combination_Sampling.png).
 
-* The ensemble classifiers (Easy, Balanced Random Forest) seem to perform better than the previous sampling approaches, suggesting a more random approach may better fit the imbalanced data set.
+* The ensemble classifiers (Easy, Balanced Random Forest) seem to perform better than the previous sampling approaches in precision, sensitivity, and F1 terms (sometimes substantially better), suggesting a more random approach may better fit the imbalanced data set.
 
 ### Easy Ensemble
 ![Easy_Ensemble_AdaBoost](/Easy_Ensemble_AdaBoost.png).
