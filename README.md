@@ -1,5 +1,9 @@
 # Credit_Risk_Analysis
 
+## Project Overview
+The goal of this project is to employ machine learning with the goal of predicting credit risk. The following discusses whether the several models run should be used to predict credit risk. 
+
+## Results
 
 ## Naive Random Oversampling
 ![Naive_Random_Oversampling](/Naive_Random_Oversampling.png).
