@@ -6,20 +6,20 @@ The goal of this project is to employ machine learning with the aim of predictin
 ## Results
 
 *Test
-## Naive Random Oversampling
+### Naive Random Oversampling
 ![Naive_Random_Oversampling](/Naive_Random_Oversampling.png).
 
-## SMOTE Oversampling
+### SMOTE Oversampling
 ![SMOTE_Oversampling](/SMOTE_Oversampling.png).
 
-## Undersampling
+### Undersampling
 ![Undersampling](/Undersampling.png).
 
-## Combination Sampling
+### Combination Sampling
 ![Combination_Sampling](/Combination_Sampling.png).
 
-## Easy Ensemble
+### Easy Ensemble
 ![Easy_Ensemble_AdaBoost](/Easy_Ensemble_AdaBoost.png).
 
-## Balanced Random Forest
+### Balanced Random Forest
 ![Balanced_Random_Forest](/Balanced_Random_Forest.png).
