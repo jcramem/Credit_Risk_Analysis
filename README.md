@@ -5,7 +5,7 @@ The goal of this project is to employ machine learning with the aim of predictin
 
 ## Results
 
-## *Test
+## *The results for the Naive Random Oversampling model 
 
 ### Naive Random Oversampling
 ![Naive_Random_Oversampling](/Naive_Random_Oversampling.png).
