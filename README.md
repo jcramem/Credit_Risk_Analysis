@@ -4,9 +4,9 @@
 The goal of this project is to employ machine learning with the aim of predicting credit risk. The following discusses whether the several models run should be used to predict credit risk. 
 
 ## Results
-*Although the recall and balabced accuracy scores for the Naive Random Oversampling show promise, the extremes of the precision scores suggest that another approach may be needed 
-### Naive Random Oversampling
+*Although the recall and balabced accuracy scores for first four models below (Naive Random Oversampling, SMOTE Oversampling, Undersampling, Combination Sampling) show promise, the extremes of the precision scores suggest that another approach may be needed that ccounts for an imbalanced data set.
 
+### Naive Random Oversampling
 ![Naive_Random_Oversampling](/Naive_Random_Oversampling.png).
 
 ### SMOTE Oversampling
