@@ -5,9 +5,8 @@ The goal of this project is to employ machine learning with the aim of predictin
 
 ## Results
 
-## *The results for the Naive Random Oversampling model 
-
 ### Naive Random Oversampling
+*The results for the Naive Random Oversampling model 
 ![Naive_Random_Oversampling](/Naive_Random_Oversampling.png).
 
 ### SMOTE Oversampling
