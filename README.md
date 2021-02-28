@@ -27,4 +27,4 @@ The goal of this project is to employ machine learning with the aim of predictin
 ![Balanced_Random_Forest](/Balanced_Random_Forest.png).
 
 ## Summary
-*Although all of the models has promise in one aspect, the only model I would feel comfortable recommending going forward - with perhaps one more round of testing to confirm -  would be Easy Ensemble AdaBoost Classifier. The results for this model have a relatively high balanced accuracy score plus the more ideal balance of accurate previous and sensitivity results.
+*Although all of the models has promise in one aspect, the model I would feel comfortable recommending going forward - with perhaps one more round of testing to confirm -  would be Easy Ensemble AdaBoost Classifier. The results for this model have a relatively high balanced accuracy score plus the more ideal balance of accurate precision and sensitivity results.
