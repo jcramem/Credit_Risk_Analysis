@@ -18,6 +18,8 @@ The goal of this project is to employ machine learning with the aim of predictin
 ### Combination Sampling
 ![Combination_Sampling](/Combination_Sampling.png).
 
+*Although the recall and balabced accuracy scores for first four models below (Naive Random Oversampling, SMOTE Oversampling, Undersampling, Combination Sampling) show promise, the extremes of the precision scores suggest that another approach may be needed to account for an imbalanced data set.
+
 ### Easy Ensemble
 ![Easy_Ensemble_AdaBoost](/Easy_Ensemble_AdaBoost.png).
 
